@@ -1,0 +1,15 @@
+warning: in the working copy of 'docs/01-planning/data/estimates.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/01-planning/data/pert_hours.csv', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/01-planning/estimates.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/01-planning/story-map.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'scripts/three_point.py', LF will be replaced by CRLF the next time Git touches it
+ README.md                            |  1 [32m+[m
+ docs/01-planning/data/.gitkeep       |  0
+ docs/01-planning/data/estimates.csv  |  2 [32m+[m[31m-[m
+ docs/01-planning/data/pert_hours.csv | 10 [32m++++[m[31m-----[m
+ docs/01-planning/estimates.md        | 24 [32m+++++++++++[m[31m-----------[m
+ docs/01-planning/story-map.md        | 39 [32m+++++++++++++++++++[m[31m-----------------[m
+ scripts/.gitkeep                     |  0
+ scripts/create_issues.py             |  0
+ scripts/three_point.py               |  2 [32m+[m[31m-[m
+ 9 files changed, 41 insertions(+), 37 deletions(-)

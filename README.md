@@ -27,6 +27,7 @@
 - [Видение продукта](docs/01-planning/vision.md)
 - [Бэклог продукта](docs/01-planning/backlog.md)
 - [Карта историй](docs/01-planning/story-map.md)
+- [Оценка трудоемкости](estimates.md)
  
 ## Доска задач
  
