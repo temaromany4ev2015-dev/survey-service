@@ -28,6 +28,11 @@
 - [Бэклог продукта](docs/01-planning/backlog.md)
 - [Карта историй](docs/01-planning/story-map.md)
 - [Оценка трудоемкости](estimates.md)
+- [Приоритизация и состав MVP](prioritization.md)
+- [План релиза MVP](release-plan.md)
+- [Процесс команды: методология, доска, WIP-лимиты, DoR и DoDP](process.md)
+- [Рабочее соглашение команды](team-agreement.md)
+
  
 ## Доска задач
  
